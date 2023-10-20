@@ -16,6 +16,7 @@
 
 ## How-to-Run
   The code was created with Selenium IDE and then exported to a Python code. It is possible to run by various methods, you can read about the details [here](https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test).
+  Make sure that your window size is set to bigger than 960px when using NightCafe Studio. 
 
 ## Missing
   The code is missing the following parts for now: 
