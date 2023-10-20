@@ -14,6 +14,8 @@
   3. Making the picture bigger to make it look better on the items - [Photo Enlarger](https://www.photoenlarger.com/)
   4. Uploading the generated Art to a webshop - [Redbubble](https://www.redbubble.com/)
 
+ The process is also linked in more detail in hungarian, in the file called RedbubbleFolyamat.txt
+
 ## How-to-Run
   The code was created with Selenium IDE and then exported to a Python code. It is possible to run by various methods, you can read about the details [here](https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test).
   
